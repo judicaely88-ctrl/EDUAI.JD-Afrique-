@@ -1,0 +1,6 @@
+{
+  "name": "EDUAI - Assistant Éducatif Africain par JDDIGITAL",
+  "description": "EduAI est ton assistant éducatif intelligent pour apprendre, réviser, comprendre tes erreurs et préparer tes examens en Afrique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
